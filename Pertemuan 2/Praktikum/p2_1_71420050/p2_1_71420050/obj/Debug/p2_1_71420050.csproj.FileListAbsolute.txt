@@ -1,0 +1,7 @@
+D:\pemogramanII_PBO\Pertemuan 2\Praktikum\p2_1_71420050\p2_1_71420050\bin\Debug\p2_1_71420050.exe.config
+D:\pemogramanII_PBO\Pertemuan 2\Praktikum\p2_1_71420050\p2_1_71420050\bin\Debug\p2_1_71420050.exe
+D:\pemogramanII_PBO\Pertemuan 2\Praktikum\p2_1_71420050\p2_1_71420050\bin\Debug\p2_1_71420050.pdb
+D:\pemogramanII_PBO\Pertemuan 2\Praktikum\p2_1_71420050\p2_1_71420050\obj\Debug\p2_1_71420050.csproj.AssemblyReference.cache
+D:\pemogramanII_PBO\Pertemuan 2\Praktikum\p2_1_71420050\p2_1_71420050\obj\Debug\p2_1_71420050.csproj.CoreCompileInputs.cache
+D:\pemogramanII_PBO\Pertemuan 2\Praktikum\p2_1_71420050\p2_1_71420050\obj\Debug\p2_1_71420050.exe
+D:\pemogramanII_PBO\Pertemuan 2\Praktikum\p2_1_71420050\p2_1_71420050\obj\Debug\p2_1_71420050.pdb
