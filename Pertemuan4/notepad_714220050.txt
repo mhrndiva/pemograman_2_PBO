@@ -1,0 +1,19 @@
+Bagian I 
+14. Eror yang terjadi berikut Severity	Code	Description	Project	File	Line	Suppression State
+Error	CS0122	'Product_714220050.myType' is inaccessible due to its protection level	P4_1_714220050	D:\pemogramanII_PBO\Pertemuan4\Praktikum\P4_1_714220050\P4_1_714220050\ProductTest_714220050.cs	15	Active
+
+disebabkan pada kode program `protected string myType = "Book";`yang merupakan deklarasi variabel yang bernama "myType" 
+yang memiliki tipe data string dengan field "Book". Kata kunci "protected" membuat variabel tersebut hanya dapat di akses dari dalam 
+kelas tempat variabel tersebut didefinisikan atau dari kelas turunan yang mewrisi kelas ini
+
+19.pada program sudah di running menghasilkan output namun tidak ada hasil apapun dan tidak terjadi eror sama sekali,
+karena code 'protected string myType = 'Book'' yang mendeklarasikan 
+variabel book diubah menjadi private string myType namun tidak mendeklarasikan variabel myType.
+ 
+24. Dengan mengatur 'myProduct.MyType = "DVD"', makan nilai yang akan disimpan dalam variabel 'myType' adalah "DVD".
+ Ketika kode program 'Console.WriteLine(myProduct.Mytype);' outputnya akan menjadi "DVD"
+
+Bagian II
+8. output tidak mengeluarkan bagian "title," hal ini disebabkan oleh tidak adanya method dengan nama "MyTitle" dalam kelas "Book." 
+12. pada output di mana myTitle tidak dieksekusi karena properti myTitle belum terinisialisasi dalam kelas Book_714220023 
+
