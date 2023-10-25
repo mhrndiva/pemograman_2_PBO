@@ -1,0 +1,10 @@
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\bin\Debug\P5_3_71422050.exe.config
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\bin\Debug\P5_3_71422050.exe
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\bin\Debug\P5_3_71422050.pdb
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\obj\Debug\P5_3_71422050.csproj.AssemblyReference.cache
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\obj\Debug\P5_3_71422050.Form1.resources
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\obj\Debug\P5_3_71422050.Properties.Resources.resources
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\obj\Debug\P5_3_71422050.csproj.GenerateResource.cache
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\obj\Debug\P5_3_71422050.csproj.CoreCompileInputs.cache
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\obj\Debug\P5_3_71422050.exe
+D:\pemogramanII_PBO\Pertemuan5\Praktikum\P5_3_71422050\P5_3_71422050\obj\Debug\P5_3_71422050.pdb
