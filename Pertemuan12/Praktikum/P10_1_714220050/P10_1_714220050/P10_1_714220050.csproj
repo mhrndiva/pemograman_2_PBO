@@ -98,10 +98,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="controller\barang.cs" />
     <Compile Include="controller\Mahasiswa.cs" />
     <Compile Include="controller\Nilai.cs" />
+    <Compile Include="controller\TransaksiBarang.cs" />
+    <Compile Include="model\M_barang.cs" />
     <Compile Include="model\M_mahasiswa.cs" />
     <Compile Include="model\M_nilai.cs" />
+    <Compile Include="model\M_transaksi_barang.cs" />
+    <Compile Include="view\FormBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\FormBarang.Designer.cs">
+      <DependentUpon>FormBarang.cs</DependentUpon>
+    </Compile>
     <Compile Include="view\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,12 +127,21 @@
     <Compile Include="view\FormNilai.Designer.cs">
       <DependentUpon>FormNilai.cs</DependentUpon>
     </Compile>
+    <Compile Include="view\FromTransaksiBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\FromTransaksiBarang.Designer.cs">
+      <DependentUpon>FromTransaksiBarang.cs</DependentUpon>
+    </Compile>
     <Compile Include="view\ParentForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="view\ParentForm.Designer.cs">
       <DependentUpon>ParentForm.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="view\FormBarang.resx">
+      <DependentUpon>FormBarang.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="view\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -137,6 +156,9 @@
     </Compile>
     <EmbeddedResource Include="view\FormNilai.resx">
       <DependentUpon>FormNilai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\FromTransaksiBarang.resx">
+      <DependentUpon>FromTransaksiBarang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="view\ParentForm.resx">
       <DependentUpon>ParentForm.cs</DependentUpon>

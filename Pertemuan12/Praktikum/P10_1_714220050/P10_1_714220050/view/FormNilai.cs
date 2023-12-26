@@ -27,10 +27,8 @@ namespace P10_1_714220050.view
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
             //Query search data
-            DataNilai.DataSource = koneksi.ShowData("SELECT id_nilai, matkul, kategori,t_nilai.npm, nama, nilai " +
-            
-             "FROM t_nilai JOIN t_mahasiswa ON t_mahasiswa.npm = t_nilai.npm " +
-             "WHERE t_nilai.npm LIKE '%' '" + tbCariData.Text + "' '%' " +
+            DataNilai.DataSource = koneksi.ShowData("SELECT id_nilai, matkul, kategori FROM t_barang " +
+             "WHERE t_barang.npm LIKE '%' '" + tbCariData.Text + "' '%' " +
              "OR nama LIKE '%' '" + tbCariData.Text + "' '%'" +
              "OR matkul LIKE '%' '" + tbCariData.Text + "' '%'");
 
@@ -161,6 +159,11 @@ namespace P10_1_714220050.view
                 ResetForm();
                 Tampil();
             }
+        }
+
+        private void tbnama_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

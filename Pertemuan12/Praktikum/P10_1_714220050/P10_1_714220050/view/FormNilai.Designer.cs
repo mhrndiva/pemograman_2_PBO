@@ -31,6 +31,7 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.DataNilai = new System.Windows.Forms.DataGridView();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.tbnama = new System.Windows.Forms.TextBox();
             this.cbNpm = new System.Windows.Forms.ComboBox();
             this.cbKategori = new System.Windows.Forms.ComboBox();
             this.cbMatkul = new System.Windows.Forms.ComboBox();
@@ -47,7 +48,6 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.tbnama = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DataNilai)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -91,6 +91,14 @@
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Form Input Nilai";
+            // 
+            // tbnama
+            // 
+            this.tbnama.Location = new System.Drawing.Point(365, 86);
+            this.tbnama.Name = "tbnama";
+            this.tbnama.Size = new System.Drawing.Size(199, 20);
+            this.tbnama.TabIndex = 8;
+            this.tbnama.TextChanged += new System.EventHandler(this.tbnama_TextChanged);
             // 
             // cbNpm
             // 
@@ -254,13 +262,6 @@
             this.button1.Text = "Refresh";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // tbnama
-            // 
-            this.tbnama.Location = new System.Drawing.Point(365, 86);
-            this.tbnama.Name = "tbnama";
-            this.tbnama.Size = new System.Drawing.Size(199, 20);
-            this.tbnama.TabIndex = 8;
             // 
             // FormNilai
             // 
