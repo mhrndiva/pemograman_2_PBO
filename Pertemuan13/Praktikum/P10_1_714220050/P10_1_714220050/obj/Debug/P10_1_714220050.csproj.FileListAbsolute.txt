@@ -1,0 +1,180 @@
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.exe.config
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.exe
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.pdb
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Hash.xxHash.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\MySql.Data.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Buffers.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.IO.Pipelines.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Memory.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Numerics.Vectors.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\ZstdSharp.dll
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.pdb
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Hash.xxHash.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\MySql.Data.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Buffers.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.IO.Pipelines.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Memory.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Numerics.Vectors.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.AssemblyReference.cache
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.Form1.resources
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.Properties.Resources.resources
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.GenerateResource.cache
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.CoreCompileInputs.cache
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.CopyComplete
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.exe
+D:\pemogramanII_PBO\Pertemuan10\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.pdb
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.exe.config
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.exe
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.pdb
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Hash.xxHash.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\MySql.Data.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Buffers.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.IO.Pipelines.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Memory.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Numerics.Vectors.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\ZstdSharp.dll
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.pdb
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Hash.xxHash.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\MySql.Data.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Buffers.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.IO.Pipelines.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Memory.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Numerics.Vectors.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.AssemblyReference.cache
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.Form1.resources
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.Properties.Resources.resources
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.GenerateResource.cache
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.CoreCompileInputs.cache
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.CopyComplete
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.exe
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.pdb
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.ParentForm.resources
+D:\pemogramanII_PBO\Pertemuan11 - Copy\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.FormNilai.resources
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.AssemblyReference.cache
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.FormBarang.resources
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.Form1.resources
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.Properties.Resources.resources
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.FormNilai.resources
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.ParentForm.resources
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.GenerateResource.cache
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.CoreCompileInputs.cache
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.exe
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.pdb
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.exe.config
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.exe
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.pdb
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Hash.xxHash.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\MySql.Data.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Buffers.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.IO.Pipelines.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Memory.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Numerics.Vectors.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\ZstdSharp.dll
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.pdb
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Hash.xxHash.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\MySql.Data.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Buffers.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.IO.Pipelines.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Memory.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Numerics.Vectors.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.CopyComplete
+D:\pemogramanII_PBO\Pertemuan12\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.FromTransaksiBarang.resources
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.exe.config
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.exe
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\P10_1_714220050.pdb
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Hash.xxHash.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\MySql.Data.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Buffers.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.IO.Pipelines.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Memory.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Numerics.Vectors.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\ZstdSharp.dll
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.pdb
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Google.Protobuf.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\K4os.Hash.xxHash.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\MySql.Data.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Buffers.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.IO.Pipelines.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Memory.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Numerics.Vectors.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.AssemblyReference.cache
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.FormBarang.resources
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.Form1.resources
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.Properties.Resources.resources
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.FormNilai.resources
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.FromTransaksiBarang.resources
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.ParentForm.resources
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.StartUp.resources
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.GenerateResource.cache
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.CoreCompileInputs.cache
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.csproj.CopyComplete
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.exe
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.pdb
+D:\pemogramanII_PBO\Pertemuan13\Praktikum\P10_1_714220050\P10_1_714220050\obj\Debug\P10_1_714220050.view.FormLogin.resources
